@@ -1,2 +1,3 @@
 # adobe-illustartor-scripts
-Free JavaScripts for Adobe Illustrator.
+Free JavaScripts for Adobe Illustrator. 
+See more on: http://danteonline.pythonanywhere.com/
